@@ -8,8 +8,6 @@
 
     <ItemGroup>
       <Folder Include="Features\ReportBase\Queries\" />
-      <Folder Include="Features\ReportData\Commands\" />
-      <Folder Include="Features\ReportData\Queries\" />
     </ItemGroup>
 
     <ItemGroup>
